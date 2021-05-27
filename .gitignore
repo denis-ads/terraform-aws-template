@@ -1,0 +1,11 @@
+.terraform/*
+environments/**/*.terraform/
+environments/**/*.tfstate*
+environments/**/crash.log
+**/*.terraform/**
+**/*.tfstate*
+**/crash.log
+.git
+*.tfstate*
+crash.log
+.pytest_cache/
